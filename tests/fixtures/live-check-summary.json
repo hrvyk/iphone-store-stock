@@ -1,0 +1,113 @@
+{
+  "at": "2026-10-25T09:29:16.249Z",
+  "results": [
+    {
+      "part": "MK2G4ZA/A",
+      "status": 200,
+      "stores": [
+        {
+          "id": "R409",
+          "name": "Causeway Bay",
+          "status": "unavailable"
+        },
+        {
+          "id": "R428",
+          "name": "ifc mall",
+          "status": "unavailable"
+        },
+        {
+          "id": "R499",
+          "name": "Canton Road",
+          "status": "unavailable"
+        },
+        {
+          "id": "R673",
+          "name": "apm Hong Kong",
+          "status": "unavailable"
+        },
+        {
+          "id": "R485",
+          "name": "Festival Walk",
+          "status": "unavailable"
+        },
+        {
+          "id": "R610",
+          "name": "New Town Plaza",
+          "status": "unavailable"
+        }
+      ]
+    },
+    {
+      "part": "MK2H4ZA/A",
+      "status": 200,
+      "stores": [
+        {
+          "id": "R409",
+          "name": "Causeway Bay",
+          "status": "unavailable"
+        },
+        {
+          "id": "R428",
+          "name": "ifc mall",
+          "status": "unavailable"
+        },
+        {
+          "id": "R499",
+          "name": "Canton Road",
+          "status": "unavailable"
+        },
+        {
+          "id": "R673",
+          "name": "apm Hong Kong",
+          "status": "unavailable"
+        },
+        {
+          "id": "R485",
+          "name": "Festival Walk",
+          "status": "unavailable"
+        },
+        {
+          "id": "R610",
+          "name": "New Town Plaza",
+          "status": "unavailable"
+        }
+      ]
+    },
+    {
+      "part": "MK2J4ZA/A",
+      "status": 200,
+      "stores": [
+        {
+          "id": "R409",
+          "name": "Causeway Bay",
+          "status": "unavailable"
+        },
+        {
+          "id": "R428",
+          "name": "ifc mall",
+          "status": "unavailable"
+        },
+        {
+          "id": "R499",
+          "name": "Canton Road",
+          "status": "unavailable"
+        },
+        {
+          "id": "R673",
+          "name": "apm Hong Kong",
+          "status": "unavailable"
+        },
+        {
+          "id": "R485",
+          "name": "Festival Walk",
+          "status": "unavailable"
+        },
+        {
+          "id": "R610",
+          "name": "New Town Plaza",
+          "status": "unavailable"
+        }
+      ]
+    }
+  ]
+}
